@@ -54,3 +54,6 @@ p{
 img{
     display: inline-block;
 }
+#gallery{
+    background-color: black;
+}
