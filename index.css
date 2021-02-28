@@ -1,0 +1,14 @@
+#menu{
+    background-color: navy;
+}
+#menu ul li{
+    display: inline-block;
+    font-weight: bold;
+    text-align: left;
+    font-size: 26px;
+    margin: 20px;
+    padding: 5px;
+}
+body{
+    background-color: #66cccc;
+}
