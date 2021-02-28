@@ -25,4 +25,32 @@ body{
 }
 p{
     text-align: left;
-    font-weight: bold;
+    font-weight: 400;
+}
+#fergie{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 6px;
+    background-color: lavenderblush;
+}
+#will{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 6px;
+    background-color: lightblue;
+}
+#tab{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 6px; 
+    background-color: lightpink;
+}
+#de{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 6px;
+    background-color: lightslategrey;
+}
+img{
+    display: inline-block;
+}
